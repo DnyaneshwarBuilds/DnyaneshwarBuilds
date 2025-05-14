@@ -14,7 +14,7 @@
 💬 Ask me about: **Java, Spring Boot, React, PostgreSQL, MongoDB, DSA, and Full-Stack Development**  
 📫 Reach me at: **jaybhayednyaneshwar139@gmail.com**  
 🔗 LinkedIn: [Dnyaneshwar Jaybhaye](https://www.linkedin.com/in/dnyaneshwarjaybhaye/)  
-📄 [View My Resume](https://drive.google.com/file/d/1q4y_V8be8eUu-2FqhCB2EAzfO1sQc3-W/view?usp=sharing)  
+📄 [View My Resume](https://drive.google.com/file/d/1j-roEJYzgLJPVQaiK1eiVZK7xP3QTuSW/view?usp=sharing)  
 ⚡ Fun fact: *I can debug code faster than I can tell a joke, but both are equally satisfying! 😄*
 
 ---
